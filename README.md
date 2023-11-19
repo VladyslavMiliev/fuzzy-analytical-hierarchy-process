@@ -33,6 +33,7 @@ Resulting Scores
 Calculation of resulting scores for each alternative based on normalized weights.
 Console Output
 Console log statements displaying various matrices, calculations, and final results.
+
 # How to Use
 To utilize this code:
 
@@ -41,9 +42,8 @@ Open the fahp.js file.
 Execute the script using a JavaScript environment (e.g., Node.js).
 Ensure that you have Node.js installed on your system to run the script.
 
-# 25-15-21 1-18-5 1 13-15-20-8-5-18-6-21-3-11-5-18
-
 # Results
 The final results include normalized weights for each criterion, resulting scores for each alternative, and a color-coded display of the top-ranked alternative.
 
 Feel free to adapt and extend this code for your specific use case and criteria. If you have any questions or need further clarification on the FAHP implementation, refer to the relevant sections in the code or consult external resources on the Fuzzy Analytical Hierarchy Process.
+25-15-21 1-18-5 1 13-15-20-8-5-18-6-21-3-11-5-18
