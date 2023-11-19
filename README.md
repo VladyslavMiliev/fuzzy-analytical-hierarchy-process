@@ -4,7 +4,7 @@
 # Overview
 This repository contains a JavaScript implementation of the Fuzzy Analytical Hierarchy Process (FAHP) to aid in the evaluation and comparison of delivery companies. The FAHP is employed to handle the imprecise and uncertain nature of decision-making processes by incorporating fuzzy logic.
 
-Code Structure
+# Code Structure
 The code is structured into distinct sections, each dedicated to a specific step in the FAHP process:
 
 Criteria and Delivery Companies
