@@ -37,7 +37,7 @@ How to Use
 To utilize this code:
 
 Clone the repository.
-Open the index.js file.
+Open the fahp.js file.
 Execute the script using a JavaScript environment (e.g., Node.js).
 Ensure that you have Node.js installed on your system to run the script.
 
