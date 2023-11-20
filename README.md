@@ -44,6 +44,7 @@ Ensure that you have Node.js installed on your system to run the script.
 
 # Results
 The final results include normalized weights for each criterion, resulting scores for each alternative, and a color-coded display of the top-ranked alternative.
+
 ![image](https://github.com/VladyslavMiliev/fuzzy-analytical-hierarchy-process/assets/84059723/fc588f07-05d4-4c63-ae8f-7b73a19dbe84)
 
 Feel free to adapt and extend this code for your specific use case and criteria. If you have any questions or need further clarification on the FAHP implementation, refer to the relevant sections in the code or consult external resources on the Fuzzy Analytical Hierarchy Process.
