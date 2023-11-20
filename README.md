@@ -113,4 +113,4 @@ The script outputs the following information:
 
 ![image](https://github.com/VladyslavMiliev/fuzzy-analytical-hierarchy-process/assets/84059723/d287b08f-bae9-4640-aaec-1a4a225a63d5)
 
-Feel free to customize and integrate this script into your project for decision-making processes related to delivery company selection.
+Feel free to customize and integrate this script into your project for decision-making processes related to selection problems.
