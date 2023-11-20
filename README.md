@@ -60,6 +60,13 @@ for (const key in pairwiseNumbers) {
   }
 }
 ```
+The pairwise comparison matrix of the criteria:
+
+|:---:                |C1 (cargo support) |C2 (cargo insurance)|C3 (on-time delivery)|
+|                     |:---:              |:---:               |:---:                |
+|C1 (cargo support)   |[ 1, 1, 1 ]        |[ 2, 3, 4 ]         |[ 3, 4, 5 ]
+|C2 (cargo insurance) |[ 0.25, 0.33, 0.5 ]|[ 1, 1, 1 ]         |[ 1, 2, 3 ]
+|C3 (on-time delivery)|[ 0.2, 0.25, 0.33 ]|[ 0.33, 0.5, 1 ]    |[ 1, 1, 1 ]
 
 # FAHP Calculation Steps
 The script follows these major steps in FAHP calculations:
@@ -86,13 +93,21 @@ Resulting Scores Calculation: Combines the normalized weights to calculate resul
 The script outputs the following information:
 
 Pairwise comparison matrices
+
 Geometric mean of fuzzy comparison values for each criterion
+
 Vector summation
+
 Inversion vector
+
 Fuzzy weights for each criterion
+
 Defuzzification results
+
 Normalized weights
+
 Pairwise comparison matrices of alternatives by criteria
+
 Resulting scores for each alternative
 
 ![image](https://github.com/VladyslavMiliev/fuzzy-analytical-hierarchy-process/assets/84059723/d287b08f-bae9-4640-aaec-1a4a225a63d5)
