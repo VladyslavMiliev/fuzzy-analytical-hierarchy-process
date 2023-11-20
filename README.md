@@ -62,8 +62,7 @@ for (const key in pairwiseNumbers) {
 ```
 The pairwise comparison matrix of the criteria:
 
-|:---:                |C1 (cargo support) |C2 (cargo insurance)|C3 (on-time delivery)|
-|                     |:---:              |:---:               |:---:                |
+|                     |C1 (cargo support) |C2 (cargo insurance)|C3 (on-time delivery)|
 |C1 (cargo support)   |[ 1, 1, 1 ]        |[ 2, 3, 4 ]         |[ 3, 4, 5 ]          |
 |C2 (cargo insurance) |[ 0.25, 0.33, 0.5 ]|[ 1, 1, 1 ]         |[ 1, 2, 3 ]          |
 |C3 (on-time delivery)|[ 0.2, 0.25, 0.33 ]|[ 0.33, 0.5, 1 ]    |[ 1, 1, 1 ]          |
