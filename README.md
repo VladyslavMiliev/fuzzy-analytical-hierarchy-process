@@ -70,46 +70,46 @@ The pairwise comparison matrix of the criteria:
 
 
 # FAHP Calculation Steps
-The script follows these major steps in FAHP calculations:
+1. The script follows these major steps in FAHP calculations:
 
-Pairwise Comparison Matrix of Criteria (matrix): Displays the pairwise comparison matrix of the criteria.
+2. Pairwise Comparison Matrix of Criteria (matrix): Displays the pairwise comparison matrix of the criteria.
 
-Geometric Mean Calculation: Calculates the geometric mean of fuzzy comparison values for each criterion (C1, C2, C3).
+3. Geometric Mean Calculation: Calculates the geometric mean of fuzzy comparison values for each criterion (C1, C2, C3).
 
-Vector Summation: Calculates the vector summation based on the geometric mean.
+4. Vector Summation: Calculates the vector summation based on the geometric mean.
 
-Inversion Vector: Calculates the inversion vector.
+5. Inversion Vector: Calculates the inversion vector.
 
-Fuzzy Weights Calculation: Computes fuzzy weights for each criterion.
+6. Fuzzy Weights Calculation: Computes fuzzy weights for each criterion.
 
-Defuzzification: Performs defuzzification to obtain crisp values.
+7. Defuzzification: Performs defuzzification to obtain crisp values.
 
-Normalization of Weights: Normalizes the obtained weights.
+8. Normalization of Weights: Normalizes the obtained weights.
 
-Pairwise Comparison Matrix of Alternatives by Criteria (matrixC1, matrixC2, matrixC3): Displays the pairwise comparison matrix of alternatives by each criterion.
+9. Pairwise Comparison Matrix of Alternatives by Criteria (matrixC1, matrixC2, matrixC3): Displays the pairwise comparison matrix of alternatives by each criterion.
 
-Resulting Scores Calculation: Combines the normalized weights to calculate resulting scores for each alternative.
+10. Resulting Scores Calculation: Combines the normalized weights to calculate resulting scores for each alternative.
 
 # Results
 The script outputs the following information:
 
-Pairwise comparison matrices
+* Pairwise comparison matrices
 
-Geometric mean of fuzzy comparison values for each criterion
+* Geometric mean of fuzzy comparison values for each criterion
 
-Vector summation
+* Vector summation
 
-Inversion vector
+* Inversion vector
 
-Fuzzy weights for each criterion
+* Fuzzy weights for each criterion
 
-Defuzzification results
+* Defuzzification results
 
-Normalized weights
+* Normalized weights
 
-Pairwise comparison matrices of alternatives by criteria
+* Pairwise comparison matrices of alternatives by criteria
 
-Resulting scores for each alternative
+* Resulting scores for each alternative
 
 ![image](https://github.com/VladyslavMiliev/fuzzy-analytical-hierarchy-process/assets/84059723/d287b08f-bae9-4640-aaec-1a4a225a63d5)
 
