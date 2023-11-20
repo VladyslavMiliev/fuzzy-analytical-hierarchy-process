@@ -21,7 +21,7 @@ const criteria = {
   C3: "on-time delivery",
 };
 ```
-Fuzzy Numbers
+### Fuzzy Numbers
 
 Triangular fuzzy numbers are used in the FAHP calculation:
 ```
@@ -38,7 +38,7 @@ const fuzzyNumbers = {
   9: [9, 9, 9],
 };
 ```
-Pairwise Contribution Matrix
+### Pairwise Contribution Matrix
 
 The pairwise contribution matrix of the criteria is represented by the following matrix:
 ```
@@ -62,7 +62,7 @@ for (const key in pairwiseNumbers) {
   }
 }
 ```
-The pairwise comparison matrix of the criteria:
+### The pairwise comparison matrix of the criteria:
 
 |                          |'C1 (cargo support)' |'C2 (cargo insurance)'|'C3 (on-time delivery)'|
 |:------------------------:|:-------------------:|:------------------:|:------------:|
